@@ -14,13 +14,16 @@ git clone https://github.com/Majesty-L/DATA-JOURNALISM.git
 ```
 #### 2）不下载git
 从 https://github.com/Majesty-L/DATA-JOURNALISM Download ZIP
+
 或我项目打包通过微信发送
 
 ### 3、下载node&npm
 在 https://nodejs.org/download/release/v14.18.1/ 下载：
 
 【window-64位】系统下载node-v14.18.1-x64.msi
+
 【window-32位】系统下载node-v14.18.1-x86.msi
+
 【mac】系统下载node-v14.18.1.pkg
 
 ## 下载依赖
@@ -29,7 +32,7 @@ git clone https://github.com/Majesty-L/DATA-JOURNALISM.git
 npm install
 ```
 
-### 运行项目
+## 运行项目
 执行
 ```
 npm run serve

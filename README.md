@@ -1,24 +1,15 @@
 # data-journalism
 
-## Project setup
+## 准备工作
+### 1、下载vscode
+### 2、
+
+## 下载依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

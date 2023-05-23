@@ -32,6 +32,11 @@ const router = new VueRouter({
       name: 'page_4',
       component: () => import('@/pages/page_4'),
     },
+    {
+      path: '/page_5',
+      name: 'page_5',
+      component: () => import('@/pages/page_5'),
+    },
   ],
 });
 
